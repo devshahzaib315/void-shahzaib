@@ -76,7 +76,7 @@ const Header = ({ title = titleDefault }) => {
         documentation: https://dev.twitter.com/cards/getting-started
         Be sure validate your Twitter card markup on the documentation site. */}
         <meta name='twitter:card' content='summary_large_image' />
-        <meta name='twitter:site' content='@hyamero' />
+        <meta name='instagram:site' content='@devshahzab315' />
       </Head>
     </>
   )
