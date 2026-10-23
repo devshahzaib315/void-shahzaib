@@ -51,15 +51,15 @@ const Socials: React.FC = () => {
   return (
     <ul className='left-0 flex justify-center w-full mb-10 text-sm font-light tracking-widest md:absolute bottom-10 text-white/70 space-x-5 font-ubuntu [&>li]:flex [&>li]:items-center [&>li]:cursor-pointer [&>li]:transition-all md:justify-start md:mb-0'>
       <li className=' hover:text-white'>
-        <a href='https://github.com/hyamero'>GITHUB</a>
+        <a href='https://github.com/devshahzaib315'>GITHUB</a>
         <FiArrowUpRight />
       </li>
       <li className=' hover:text-white'>
-        <a href='https://www.instagram.com/hyamero/'>INSTAGRAM</a>
+        <a href='https://www.instagram.com/devshahzaib315'>INSTAGRAM</a>
         <FiArrowUpRight />
       </li>
       <li className=' hover:text-white'>
-        <a href='https://www.linkedin.com/in/daleban/'>LINKEDIN</a>
+        <a href='https://www.linkedin.com/company/devora-hub'>LINKEDIN</a>
         <FiArrowUpRight />
       </li>
     </ul>
