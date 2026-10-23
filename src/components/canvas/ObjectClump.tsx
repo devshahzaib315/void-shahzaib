@@ -44,7 +44,7 @@ const ObjectClump = ({}) => {
           </Html>
         }
       >
-        <Title>{'hyamero@daleban.tech'}</Title>
+        <Title>{'dev.shahzaib.92@gmail.com'}</Title>
         <Physics gravity={[0, 5, 0]} iterations={10}>
           <Pointer />
           <Balls />
@@ -137,7 +137,7 @@ const Title = ({ children }) => {
       material-toneMapped={false}
       anchorX='center'
       anchorY='middle'
-      onClick={() => (window.location.href = 'mailto:hyamero@daleban.tech')}
+      onClick={() => (window.location.href = 'dev.shahzaib.92@gmail.com')}
       onPointerEnter={() => (document.body.style.cursor = 'pointer')}
       onPointerLeave={() => (document.body.style.cursor = 'auto')}
     >
